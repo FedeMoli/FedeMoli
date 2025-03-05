@@ -22,19 +22,6 @@ Soy un **Licenciado en Sistemas** con más de 5 años de experiencia en el área
   - Reducción del tiempo de pruebas manuales en un 30% mediante la implementación de un sistema automatizado de pruebas.
   - Mejora de la eficiencia en el ciclo de desarrollo al identificar y corregir problemas en las primeras fases de desarrollo.
 
-### **QA Semi-Senior** - [Nombre de la Empresa Anterior]
-*Agosto 2017 - Diciembre 2020*
-
-- **Responsabilidades**:
-  - Ejecución de pruebas funcionales y no funcionales en aplicaciones web y móviles.
-  - Participación en la creación de scripts de pruebas automatizadas.
-  - Identificación de riesgos y puntos críticos en el software mediante pruebas exhaustivas.
-  - Colaboración en la mejora continua de los procesos de pruebas.
-
-- **Logros**:
-  - Reducción de defectos en producción mediante la mejora de la cobertura de pruebas automatizadas.
-  - Implementación de pruebas de rendimiento que ayudaron a identificar cuellos de botella en aplicaciones críticas.
-
 ## Habilidades Técnicas
 
 - **Lenguajes de Programación**: Java, Python
