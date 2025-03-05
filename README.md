@@ -22,7 +22,7 @@ Soy un **Licenciado en Sistemas** con más de 3 años de experiencia en el área
   - Reducción del tiempo de pruebas manuales en un 30% mediante la implementación de un sistema automatizado de pruebas.
   - Mejora de la eficiencia en el ciclo de desarrollo al identificar y corregir problemas en las primeras fases de desarrollo.
 
-## Habilidades Técnicas
+## Habilidades Técnicas 
 
 - **Lenguajes de Programación**: Java, Python
 - **Herramientas de Pruebas**: Selenium, JUnit, TestNG, Postman, Soap UI
