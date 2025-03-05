@@ -47,8 +47,8 @@ Puedes conectarte conmigo a través de mi perfil de LinkedIn:
 
 ## Contacto
 
-- **Email**: tuemail@dominio.com
-- **GitHub**: [@tuusuario](https://github.com/FedeMoli/CORE-ACNET)
+- **Email**: federicomolinari99@gmail.com
+- **GitHub**: [(https://github.com/FedeMoli/CORE-ACNET)]
 
 ---
 
