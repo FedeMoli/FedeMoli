@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Soy un **Licenciado en Sistemas** con más de 5 años de experiencia en el área de **Control de Calidad (QA)**, especializado en la automatización de pruebas y la mejora continua de procesos. A lo largo de mi carrera, he trabajado con equipos multidisciplinarios para garantizar la calidad de aplicaciones, tanto en el área de software como en la infraestructura que las soporta. Mi enfoque está en la implementación de soluciones que optimicen el ciclo de vida de desarrollo, asegurando la entrega de productos con la mayor confiabilidad posible.
+Soy un **Licenciado en Sistemas** con más de 3 años de experiencia en el área de **Control de Calidad (QA)**, especializado en la automatización de pruebas y la mejora continua de procesos. A lo largo de mi carrera, he trabajado con equipos multidisciplinarios para garantizar la calidad de aplicaciones, tanto en el área de software como en la infraestructura que las soporta. Mi enfoque está en la implementación de soluciones que optimicen el ciclo de vida de desarrollo, asegurando la entrega de productos con la mayor confiabilidad posible.
 
 ## Experiencia Profesional
 
